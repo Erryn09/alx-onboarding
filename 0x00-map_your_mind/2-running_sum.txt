@@ -1,0 +1,6 @@
+Total = 0
+Receive int from user. (Num)
+Total = Total + Num.
+Prompt user to input another int (Num)
+Total = Total + Num.
+Loop until Num is -ve
